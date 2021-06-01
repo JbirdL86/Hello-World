@@ -4,7 +4,7 @@
 
 > HEllo-Microverse is a project where we get to set up all that we need to set a remote work enviroment. In this project, we created a repository and added linters to it, also we have to add a html file and a css file.
 
-![screenshot](https://github.com/JbirdL86/Hello-Microverse/blob/feature-branch/assets/images/helloMicroverse.png)
+![screenshot](https://rawcdn.githack.com/JbirdL86/Hello-World/6b13fe40173fca2382ccd5af586136d93779e768/index.html)
 
 The page will display Hello Microverse!
 
