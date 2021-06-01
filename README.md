@@ -2,21 +2,20 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> HEllo-Microverse is a project where we get to set up all that we need to set a remote work enviroment. In this project, we created a repository and added linters to it, also we have to add a html file and a css file.
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://github.com/JbirdL86/Hello-Microverse/blob/feature-branch/assets/images/helloMicroverse.png)
 
-Additional description about the project and its features.
+The page will display Hello Microverse!
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/JbirdL86/Hello-Microverse/67410abe5d2786e9eaa774109edb5c6a6838c148/index.html
 
 
 ## Getting Started
@@ -45,21 +44,15 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [@githubhandle](https://github.com/JbirdL86)
+- Twitter: [@twitterhandle](https://twitter.com/JuanLui06498455)
+- Linkedin: [linkedin](https://www.linkedin.com/in/juan-luis-0551921aa/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
